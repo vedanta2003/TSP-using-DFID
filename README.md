@@ -1,8 +1,6 @@
 # TSP-using-DFID
 
 
-# Traveling Salesman Problem (TSP) Solver
-
 This code implements a solution to the Traveling Salesman Problem (TSP) using Depth-First Iterative Deepening (DFID) search. The TSP is a classic optimization problem where the goal is to find the shortest possible route that visits a set of cities exactly once and returns to the starting city.
 
 ## Prerequisites
